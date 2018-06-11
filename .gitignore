@@ -36,7 +36,8 @@ modules.builtin
 Module.symvers
 *.dwo
 *.su
-
+*.zip
+aarch64-linux-android-4.9/*
 #
 # Top-level generic files
 #
